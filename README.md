@@ -59,4 +59,4 @@ Additionally, the add-on also contains a custom payload module for the Vanguard.
 [Orbiter Space Flight Simulator]: http://orbit.medphys.ucl.ac.uk/
 [Altea Aerospace]: https://alteaaerospace.com/
 [Sanagi Yuzu]: https://twitter.com/SanagiYuzu
-[Releases]: "to-do"
+[Releases]: https://github.com/cafuneandchill/Sanagi-Yuzu-XR5-Vanguard/releases/latest
